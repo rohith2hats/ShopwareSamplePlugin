@@ -1,1 +1,1 @@
-# ShopwareSamplePlugin
+# ShopwareSamplePluginModified
