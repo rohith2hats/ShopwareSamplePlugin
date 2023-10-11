@@ -4,7 +4,7 @@ $fixed_email = "user@example.com";
 $fixed_password = "password123";
 
 // Check if the form has been submitted
-if (isset($_POST['login'])) {
+if (isset($_POST['loginss'])) {
     // Retrieve user input from the form
     $user_email = $_POST['email'];
     $user_password = $_POST['password'];
@@ -18,6 +18,7 @@ if (isset($_POST['login'])) {
         // Login failed
         echo "Invalid email or password. Please try again.";
     }
+}
 }
 ?>
 
