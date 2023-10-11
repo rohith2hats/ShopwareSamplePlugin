@@ -24,7 +24,7 @@ if (isset($_POST['login'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Login</title>
+    <title>Simple Login Form</title>
 </head>
 <body>
     <h1>Login</h1>
